@@ -19,6 +19,7 @@
 👤 **이 보 라**
 
 - Github: [@Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)
+
   👤 **이 건 영**
 
 - Github: [@KeonYonug Lee](https://github.com/TGBegins)
